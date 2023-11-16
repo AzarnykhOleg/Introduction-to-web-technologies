@@ -63,7 +63,7 @@
 ***
 5.
 ### `Прототип низкой детализации:`
-[Прототип низкой детализации](https://app.moqups.com/Zo64Jle2GupoQl8hAb5uXOFEzVUAupHK/view/page/ad64222d5 "Прототип низкой детализации")
+[Прототип низкой детализации](https://app.moqups.com/kCLkBq8NduoN8AykcNvC7imJqVHBaXwA/view/page/ad64222d5?ui=0 "Прототип низкой детализации")
 
 ![Project](img/Project.jpg "Прототип низкой детализации")
 
